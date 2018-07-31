@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Baggit.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:Pods"
+      name = "Pods">
+      <Group
+         location = "group:Alamofire"
+         name = "Alamofire">
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+         <Group
+            location = "group:Source"
+            name = "Source">
+            <FileRef
+               location = "group:AFError.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire.swift">
+            </FileRef>
+            <FileRef
+               location = "group:DispatchQueue+Alamofire.swift">
+            </FileRef>
+            <FileRef
+               location = "group:MultipartFormData.swift">
+            </FileRef>
+            <FileRef
+               location = "group:NetworkReachabilityManager.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Notifications.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ParameterEncoding.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Request.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Response.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ResponseSerialization.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Result.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ServerTrustPolicy.swift">
+            </FileRef>
+            <FileRef
+               location = "group:SessionDelegate.swift">
+            </FileRef>
+            <FileRef
+               location = "group:SessionManager.swift">
+            </FileRef>
+            <FileRef
+               location = "group:TaskDelegate.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Timeline.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Validation.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:AlamofireImage"
+         name = "AlamofireImage">
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+         <Group
+            location = "group:Source"
+            name = "Source">
+            <FileRef
+               location = "group:AFIError.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Image.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ImageCache.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ImageDownloader.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ImageFilter.swift">
+            </FileRef>
+            <FileRef
+               location = "group:Request+AlamofireImage.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UIButton+AlamofireImage.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UIImage+AlamofireImage.swift">
+            </FileRef>
+            <FileRef
+               location = "group:UIImageView+AlamofireImage.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:Headers"
+         name = "Headers">
+      </Group>
+      <Group
+         location = "group:ImageSlideshow"
+         name = "ImageSlideshow">
+         <Group
+            location = "group:ImageSlideshow"
+            name = "ImageSlideshow">
+            <Group
+               location = "group:Assets"
+               name = "Assets">
+               <FileRef
+                  location = "group:ic_cross_white@2x.png">
+               </FileRef>
+               <FileRef
+                  location = "group:ic_cross_white@3x.png">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Classes"
+               name = "Classes">
+               <Group
+                  location = "group:Core"
+                  name = "Core">
+                  <FileRef
+                     location = "group:ActivityIndicator.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:FullScreenSlideshowViewController.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ImageSlideshow.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ImageSlideshowItem.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:InputSource.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:PageIndicator.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:PageIndicatorPosition.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIImage+AspectFit.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UIImageView+Tools.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ZoomAnimatedTransitioning.swift">
+                  </FileRef>
+               </Group>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Local Podspecs"
+         name = "Local Podspecs">
+      </Group>
+      <FileRef
+         location = "group:Manifest.lock">
+      </FileRef>
+      <FileRef
+         location = "group:Pods.xcodeproj">
+      </FileRef>
+      <Group
+         location = "group:SearchTextField"
+         name = "SearchTextField">
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+         <Group
+            location = "group:SearchTextField"
+            name = "SearchTextField">
+            <Group
+               location = "group:Classes"
+               name = "Classes">
+               <FileRef
+                  location = "group:SearchTextField.swift">
+               </FileRef>
+            </Group>
+         </Group>
+      </Group>
+      <Group
+         location = "group:SwiftyJSON"
+         name = "SwiftyJSON">
+         <FileRef
+            location = "group:LICENSE">
+         </FileRef>
+         <FileRef
+            location = "group:README.md">
+         </FileRef>
+         <Group
+            location = "group:Source"
+            name = "Source">
+            <FileRef
+               location = "group:SwiftyJSON.swift">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:Target Support Files"
+         name = "Target Support Files">
+         <Group
+            location = "group:Alamofire"
+            name = "Alamofire">
+            <FileRef
+               location = "group:Alamofire-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire-prefix.pch">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:Alamofire.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:AlamofireImage"
+            name = "AlamofireImage">
+            <FileRef
+               location = "group:AlamofireImage-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:AlamofireImage-prefix.pch">
+            </FileRef>
+            <FileRef
+               location = "group:AlamofireImage-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:AlamofireImage.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:AlamofireImage.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:ImageSlideshow"
+            name = "ImageSlideshow">
+            <FileRef
+               location = "group:ImageSlideshow-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:ImageSlideshow-prefix.pch">
+            </FileRef>
+            <FileRef
+               location = "group:ImageSlideshow-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:ImageSlideshow.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:ImageSlideshow.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Pods-Baggit"
+            name = "Pods-Baggit">
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-Baggit-acknowledgements.markdown">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-Baggit-acknowledgements.plist">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-Baggit-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-Baggit-frameworks.sh">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-Baggit-resources.sh">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-Baggit-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-Baggit.debug.xcconfig">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-Baggit.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:Pods-Baggit.release.xcconfig">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:SearchTextField"
+            name = "SearchTextField">
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:SearchTextField-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:SearchTextField-prefix.pch">
+            </FileRef>
+            <FileRef
+               location = "group:SearchTextField-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:SearchTextField.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:SearchTextField.xcconfig">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:SwiftyJSON"
+            name = "SwiftyJSON">
+            <FileRef
+               location = "group:Info.plist">
+            </FileRef>
+            <FileRef
+               location = "group:SwiftyJSON-dummy.m">
+            </FileRef>
+            <FileRef
+               location = "group:SwiftyJSON-prefix.pch">
+            </FileRef>
+            <FileRef
+               location = "group:SwiftyJSON-umbrella.h">
+            </FileRef>
+            <FileRef
+               location = "group:SwiftyJSON.modulemap">
+            </FileRef>
+            <FileRef
+               location = "group:SwiftyJSON.xcconfig">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
